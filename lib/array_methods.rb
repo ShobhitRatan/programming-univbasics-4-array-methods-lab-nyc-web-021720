@@ -4,8 +4,6 @@ def using_include(array, element)
   element2 = "Tardis"
   array.include?(element1)
   array.include?(element2)
-  using_include(array, element1)
-  using_include(array, element2) 
 end
 
 
